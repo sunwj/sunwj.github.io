@@ -497,3 +497,16 @@ p.pub_author{
 p.pub_link{
 	font-size: 14px	
 }
+
+.news_container {
+  display: flex;
+  justify-content: left; /* 水平居中 */
+  align-items: center; /* 垂直居中 */
+  text-align: center; /* 文字居中 */
+  height: 20px; /* 容器高度，根据需要设置 */
+}
+ 
+.news_container img {
+  max-width: 100%; /* 确保图片不会超出容器 */
+  height: 25px; /* 保持图片比例 */
+}
