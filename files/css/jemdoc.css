@@ -79,7 +79,7 @@
 /* container */
 
 .container {
-	width: 1024px;
+	width: 1152px;
 	min-height: 1000px;
 	max-height: 999999px; /* prevents font boosting */
 	margin: 56px auto 20px; /* top right bottom left */
