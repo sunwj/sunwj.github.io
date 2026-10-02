@@ -1,0 +1,417 @@
+{
+  "groups": [
+    {
+      "title": "Preprints",
+      "items": [
+        {
+          "title": "SlimDiffSR: Toward Lightweight and Efficient Remote Sensing Image Super-Resolution via Diffusion Model Distillation",
+          "authors": "Ce Wang, Zhenyu Hu, <u>Wanjie Sun*</u>",
+          "venue": "arXiv:2605.02198, 2026.",
+          "image": "files/imgs/papers/arxiv2026_wc.jpg",
+          "image_size": {
+            "width": 145
+          },
+          "links": [
+            {
+              "label": "PDF",
+              "url": "https://arxiv.org/abs/2605.02198"
+            },
+            {
+              "label": "Code",
+              "url": "https://github.com/wwangcece/SlimDiffSR"
+            }
+          ],
+          "bibtex": "N/A"
+        }
+      ]
+    },
+    {
+      "title": "Journals",
+      "items": [
+        {
+          "title": "Controllable Reference-Guided Diffusion with Local-Global Fusion for Real-World Remote Sensing Image Super-Resolution",
+          "authors": "Ce Wang, <u>Wanjie Sun*</u>",
+          "venue": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (<b>IEEE JSTARS</b>), 2026. (<b>中科院二区</b>)",
+          "image": "files/imgs/papers/arxiv2025_wc_0.jpg",
+          "image_size": {
+            "width": 145
+          },
+          "links": [
+            {
+              "label": "PDF",
+              "url": "https://arxiv.org/abs/2506.23801"
+            },
+            {
+              "label": "Code",
+              "url": "https://github.com/wwangcece/CRefDiff"
+            }
+          ],
+          "bibtex": "@ARTICLE{11355810,\n                    author={Wang, Ce and Sun, Wanjie},\n                    journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},\n                    title={Controllable Reference-Guided Diffusion With Local-Global Fusion for Real-World Remote Sensing Super Resolution},\n                    year={2026},\n                    volume={19},\n                    number={},\n                    pages={4963-4979},\n                    keywords={Remote sensing;Land surface;Image reconstruction;Superresolution;Earth;Diffusion models;Sentinel-2;Satellite images;Noise reduction;Fuses;Generative prior;multisensor image fusion;reference-based super-resolution (RefSR);remote sensing imagery},\n                    doi={10.1109/JSTARS.2026.3654927}}"
+        },
+        {
+          "title": "Unifying Dimensions: A Linear Adaptive Approach to Lightweight Image Super-Resolution",
+          "authors": "Zhenyu Hu, <u>Wanjie Sun*</u>",
+          "venue": "IEEE Transactions on Image Processing (<b>IEEE TIP</b>), 2025. (<b>中科院一区Top, IF=13.7</b>)",
+          "image": "files/imgs/papers/arxiv2024_hzy.jpg",
+          "image_size": {
+            "width": 145
+          },
+          "links": [
+            {
+              "label": "PDF",
+              "url": "https://arxiv.org/abs/2409.17597"
+            },
+            {
+              "label": "Code",
+              "url": "https://github.com/zononhzy/LAMNet"
+            }
+          ],
+          "bibtex": "@ARTICLE{tip2025,\n  author={Hu, Zhenyu and Sun, Wanjie},\n  journal={IEEE Transactions on Image Processing},\n  title={Unifying Dimensions: A Linear Adaptive Approach to Lightweight Image Super-Resolution},\n  year={2025},\n  volume={},\n  number={},\n  pages={},\n  doi={}}"
+        },
+        {
+          "title": "Map-Assisted Remote-Sensing Image Compression at Extremely Low Bitrates",
+          "authors": "Yixuan Ye, Ce Wang, <u>Wanjie Sun*</u>, Zhenzhong Chen",
+          "venue": "ISPRS Journal of Photogrammetry and Remote Sensing (<b>ISPRS P&RS</b>), 2025. (<b>中科院一区Top, IF=10.6</b>)",
+          "image": "files/imgs/papers/arxiv2024_yyx.jpg",
+          "image_size": {
+            "width": 145
+          },
+          "links": [
+            {
+              "label": "PDF",
+              "url": "https://arxiv.org/abs/2409.01935"
+            },
+            {
+              "label": "Code",
+              "url": "https://github.com/WHUyyx/MAGC"
+            }
+          ],
+          "bibtex": "@article{YE2025159,\ntitle = {Map-Assisted remote-sensing image compression at extremely low bitrates},\njournal = {ISPRS Journal of Photogrammetry and Remote Sensing},\nvolume = {223},\npages = {159-172},\nyear = {2025},\nauthor = {Yixuan Ye and Ce Wang and Wanjie Sun and Zhenzhong Chen},\n}"
+        },
+        {
+          "title": "Semantic Guided Large Scale Factor Remote Sensing Image Super-resolution with Generative Diffusion Prior",
+          "authors": "Ce Wang, <u>Wanjie Sun*</u>",
+          "venue": "ISPRS Journal of Photogrammetry and Remote Sensing (<b>ISPRS P&RS</b>), 2024. (<b>中科院一区Top, IF=10.6</b>)",
+          "image": "files/imgs/papers/arxiv2024_wc_0.jpg",
+          "image_size": {
+            "width": 145
+          },
+          "links": [
+            {
+              "label": "PDF",
+              "url": "http://arxiv.org/abs/2405.07044"
+            },
+            {
+              "label": "Code",
+              "url": "https://github.com/wwangcece/SGDM"
+            }
+          ],
+          "bibtex": "@article{WANG2025125,\ntitle = {Semantic guided large scale factor remote sensing image super-resolution with generative diffusion prior},\njournal = {ISPRS Journal of Photogrammetry and Remote Sensing},\nvolume = {220},\npages = {125-138},\nyear = {2025},\nauthor = {Ce Wang and Wanjie Sun},\n}"
+        },
+        {
+          "title": "Learning Many-to-Many Mapping for Unpaired Real-World Image Super-resolution and Downscaling",
+          "authors": "<u>Wanjie Sun</u>, Zhenzhong Chen",
+          "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>IEEE TPAMI</b>), 2024. (<b>中科院一区Top, IF=20.8</b>)",
+          "image": "files/imgs/papers/arxiv2023.jpg",
+          "image_size": {
+            "width": 145
+          },
+          "links": [
+            {
+              "label": "PDF",
+              "url": "https://arxiv.org/abs/2310.04964"
+            },
+            {
+              "label": "Code",
+              "url": "https://github.com/sunwj/sdflow"
+            }
+          ],
+          "bibtex": "@ARTICLE{swj2024,\n  author={Sun, Wanjie and Chen, Zhenzhong},\n  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},\n  title={Learning Many-to-Many Mapping for Unpaired Real-World Image Super-resolution and Downscaling},\n  year={2024},\n  pages={1-16},\n  doi={10.1109/TPAMI.2024.3428546}}"
+        },
+        {
+          "title": "Lightweight Image Super-Resolution with Sliding Proxy Attention Network",
+          "authors": "Zhenyu Hu, <u>Wanjie Sun*</u>, Zhenzhong Chen",
+          "venue": "Signal Processing, 2024. (<b>中科院二区</b>)",
+          "image": "files/imgs/papers/sp2024.jpg",
+          "image_size": {
+            "width": 145
+          },
+          "links": [
+            {
+              "label": "PDF",
+              "url": "https://www.sciencedirect.com/science/article/pii/S0165168424003244?via%3Dihub"
+            },
+            {
+              "label": "Code",
+              "url": "https://github.com/zononhzy/SPAN"
+            }
+          ],
+          "bibtex": "@article{HU2025109704,\n    title = {Lightweight image super-resolution with sliding Proxy Attention Network},\n    journal = {Signal Processing},\n    volume = {227},\n    pages = {109704},\n    year = {2025},\n    author = {Zhenyu Hu and Wanjie Sun and Zhenzhong Chen}}"
+        },
+        {
+          "title": "Learned Scale-Arbitrary Image Downscaling for Non-Learnable Upscaling",
+          "authors": "Chenrui Huang, <u>Wanjie Sun</u>, Zhenzhong Chen",
+          "venue": "Signal Processing Letters, 2023. (<b>中科院二区</b>)",
+          "image": "files/imgs/papers/spl2023.jpg",
+          "image_size": {
+            "width": 145
+          },
+          "links": [
+            {
+              "label": "PDF",
+              "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10077389"
+            },
+            {
+              "label": "Code",
+              "url": "https://github.com/crhuang321/SAID"
+            }
+          ],
+          "bibtex": "@ARTICLE{spl2023,\n  author={Huang, Chengrui and Sun, Wanjie and Chen, Zhenzhong},\n  journal={IEEE Signal Processing Letters},\n  title={Learned Scale-Arbitrary Image Downscaling for Non-Learnable Upscaling},\n  year={2023},\n  volume={30},\n  number={},\n  pages={264-268},\n  doi={10.1109/LSP.2023.3259820}}"
+        },
+        {
+          "title": "Joint image demosaicking and denoising with mutual guidance of color channels",
+          "authors": "Yong zhang, <u>Wanjie Sun</u>, Zhenzhong Chen",
+          "venue": "Signal Processing, 2022. (<b>中科院二区</b>)",
+          "image": "files/imgs/papers/sp2022.jpg",
+          "image_size": {
+            "width": 145
+          },
+          "links": [
+            {
+              "label": "PDF",
+              "url": "https://pdf.sciencedirectassets.com/271605/1-s2.0-S0165168422X00078/1-s2.0-S0165168422002134/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAEaCXVzLWVhc3QtMSJGMEQCICSIbMxKwVF6tlks4s%2FprtlowpN9UefIPcnrVq8LVhSPAiA0Bd9zlHqK0yV%2BAldVi7C5utLj0GoOZ1SAxG4pXwPyqirSBAg6EAQaDDA1OTAwMzU0Njg2NSIMqxgCm6uOmcPKyrZdKq8E2Cmz0HkBrjq%2FG0BI9FQJ01H5ESymDC%2Bk2D7WfRFK5nn5hmwO0yzBOQTtjGjCZJaK7FnFD7NuE7qH5J3V%2FxpxxobyeULh1fxcyjOLFwcn1skNBzN9fF4FyliEcUs8Ec0mE9jsODMNRfOmbooAkYa42UyfYaWXD6aVH2%2FX77P1r9ZABnk%2BOeoWakxp9ZHEdi6HTlVHCRTLQkOBxKN%2BkSh7kd8sVUIjcyc65HMfVjFdAOSk1TNsUHiE4nOseFserJOWBoLEF%2BQSr%2FDaC4K%2B68HIzcA3x%2F%2FWnKrUdjMKR6ySGiIXNtsXY%2Fv3%2B%2FizS%2Foyrvc8CWXrjDn0xLcn%2BcxmkZzOfK6tMpNE%2F6Rf4Vo7yoPmgmvUdQjBBkFxiNAVdikZx0JxJBsV0nQeI%2BJppCedZMazBnN4wtTjcCStvuXOGI1Ofeiws4UAk32S5GHj5aMW7zRGswNFOFBeOnVVekKnINlabUqC%2FOr3lftYPzXoD03nMNACgCVA%2BPvPtq8rtdVYNX7SsmIShcEInLf7figvwRLuQFbFXM2p3DcFk0388qNWE5qEcylp1aCvzKpkuFV7qJqeC%2FIQa04nbubxAcAxGDiIs1YvvBRKDblzo0Hc2AIaZ4oAtgf4RiVKyZ7vIyV8kRB2fK%2BAS94xAXY%2B6zB44pjZhstUIAoPUkfjHI%2FNFZKppw91r9gcv0r8VDSaavT40WgkxFt%2FoyvUtED1DDw8yG%2F6ICNOw%2BQb0Np3%2FLag5rdqhjDP4q2WBjqqAWhCCwVyrs50P6riNpy%2FQdxHl2wKZrrnIgkCL9njJeDko1PkZmFjWJci%2BCWcvVxfKKJe%2FNB2vlq8RfdIQ52QXERPfY4qpbnDu33t6RSxuKAL6ygHYIYm%2FnKTlHiTmsCZflV78JWGP5pkfRnvmKM0KN0RgL3KzsXToV1Uk2VqQCwMb89apqdpUhu6tA1b6iMXZlAGHnDh88OAdCspZ5wdkhwI2%2Fhnoh6JPYq8&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220711T012104Z&X-Amz-SignedHeaders=host&X-Amz-Expires=299&X-Amz-Credential=ASIAQ3PHCVTY3V6LJYNB%2F20220711%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=c00cd8c33e19b4a6f17a700fa74d1765b2a5538324b2a5ca74d62c06113a9fd2&hash=0050ebdc7f78a6c6c292381cc6150c14ac230dfa52199c143709737d2cbf9b98&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0165168422002134&tid=spdf-6f722031-699c-4393-a1d1-f3ade9a11671&sid=f7cd20fa460b5847f15920c9a2c084e937dagxrqa&type=client&ua=5950580b045b535255&rr=728db8647b5dafb2"
+            },
+            {
+              "label": "Code",
+              "url": "https://github.com/yongzhangwhu/MGCC-JDD"
+            }
+          ],
+          "bibtex": "@ARTICLE{sp2022,\n  author={Zhang, Yong and Sun, Wanjie and Chen, Zhenzhong},\n  journal={Signal Processing},\n  title={Joint image demosaicking and denoising with mutual guidance of color channels},\n  year={2022},\n  volume={200},\n  number={},\n  pages={108674},\n  doi={https://doi.org/10.1016/j.sigpro.2022.108674}}"
+        },
+        {
+          "title": "Learning Discrete Representations from Reference Images for Large Scale Factor Image Super-Resolution",
+          "authors": "<u>Wanjie Sun</u>, Zhenzhong Chen",
+          "venue": "IEEE Transactions on Image Processing (<b>IEEE TIP</b>), 2022. (<b>中科院一区Top, IF=10.856</b>)",
+          "image": "files/imgs/papers/tip2022.jpg",
+          "image_size": {
+            "width": 145
+          },
+          "links": [
+            {
+              "label": "PDF",
+              "url": "https://ieeexplore.ieee.org/document/9687314"
+            },
+            {
+              "label": "Code",
+              "url": "https://github.com/sunwj/CAR"
+            }
+          ],
+          "bibtex": "@ARTICLE{tip2022,\n  author={Sun, Wanjie and Chen, Zhenzhong},\n  journal={IEEE Transactions on Image Processing},\n  title={Learning Discrete Representations from Reference Images for Large Scale Factor Image Super-Resolution},\n  year={2022},\n  volume={29},\n  number={},\n  pages={4027-4040},\n  doi={10.1109/TIP.2020.2970248}}"
+        },
+        {
+          "title": "Visual Scanpath Prediction Using IOR-ROI Recurrent Mixture Density Network",
+          "authors": "<u>Wanjie Sun</u>, Zhenzhong Chen, Feng Wu",
+          "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>IEEE TPAMI</b>), 2021. (<b>中科院一区Top, IF=24.314</b>)",
+          "image": "files/imgs/papers/tpami2021.jpg",
+          "image_size": {
+            "width": 145
+          },
+          "links": [
+            {
+              "label": "PDF",
+              "url": "https://ieeexplore.ieee.org/document/8918321"
+            },
+            {
+              "label": "Code",
+              "url": "https://github.com/sunwj/scanpath"
+            }
+          ],
+          "bibtex": "@ARTICLE{tpami2021,\n  author={Sun, Wanjie and Chen, Zhenzhong and Wu, Feng},\n  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},\n  title={Visual Scanpath Prediction Using IOR-ROI Recurrent Mixture Density Network},\n  year={2021},\n  volume={43},\n  number={6},\n  pages={2101-2118},\n  doi={10.1109/TPAMI.2019.2956930}}"
+        },
+        {
+          "title": "Learned Image Downscaling for Upscaling Using Content Adaptive Resampler",
+          "authors": "<u>Wanjie Sun</u>, Zhenzhong Chen",
+          "venue": "IEEE Transactions on Image Processing (<b>IEEE TIP</b>), 2020. (<b>中科院一区Top, IF=9.34</b>)",
+          "image": "files/imgs/papers/tip2020.jpg",
+          "image_size": {
+            "width": 145
+          },
+          "links": [
+            {
+              "label": "PDF",
+              "url": "https://ieeexplore.ieee.org/document/8982168"
+            },
+            {
+              "label": "Code",
+              "url": "https://github.com/sunwj/CAR"
+            }
+          ],
+          "bibtex": "@ARTICLE{tip2020,\n  author={Sun, Wanjie and Chen, Zhenzhong},\n  journal={IEEE Transactions on Image Processing},\n  title={Learned Image Downscaling for Upscaling Using Content Adaptive Resampler},\n  year={2020},\n  volume={29},\n  number={},\n  pages={4027-4040},\n  doi={10.1109/TIP.2020.2970248}}"
+        },
+        {
+          "title": "渲染器与Web服务器的耦合实现远程体渲染的交互优化",
+          "authors": "高瞻, <u>孙万捷</u>, 王杰华, 蒋峥峥",
+          "venue": "中国图象图形学报, 2017. (<b>CCF推荐B类中文期刊</b>)",
+          "image": "files/imgs/papers/csig2017.jpg",
+          "image_size": {
+            "height": 92
+          },
+          "links": [
+            {
+              "label": "PDF",
+              "url": "http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?flag=1&file_no=20170313&journal_id=jig"
+            }
+          ],
+          "bibtex": "@article{csig2017,\n  title={渲染器与 Web 服务器耦合实现远程体渲染的交互优化},\n  author={高瞻 and 孙万捷 and 王杰华 and 蒋峥峥},\n  year={2017},\n  volume={22},\n  number={3},\n  pages={385-394},\n  publisher={中国图象图形学报}\n}"
+        },
+        {
+          "title": "动态任务分配CUDA线程束步进体绘制",
+          "authors": "<u>孙万捷</u>, 高瞻, 潘海燕, 王杰华, 蒋峥峥",
+          "venue": "计算机辅助设计与图形学学报, 2017. (<b>CCF推荐A类中文期刊</b>)",
+          "image": "files/imgs/papers/jcad2017.jpg",
+          "image_size": {
+            "width": 145
+          },
+          "links": [
+            {
+              "label": "PDF",
+              "url": "http://www.jcad.cn/jcadcms/document/attach_manager!download.action?id=4ad5542457ebe3ba0157f9bb06aa000b"
+            }
+          ],
+          "bibtex": "@article{jcad2017,\n  title={动态任务分配 CUDA 线程束步进体绘制},\n  author={孙万捷 and 高瞻 and 潘海燕 and 王杰华 and 蒋峥峥},\n  journal={计算机辅助设计与图形学学报},\n  volume={28},\n  number={10},\n  pages={1630--1638},\n  year={2016}\n}"
+        },
+        {
+          "title": "Model Reduction and Real-time Simulation of Spinal Soft Tissues",
+          "authors": "<u>Wanjie Sun</u>, Zhan Gao, Jiehua Wang, Weixiang Wu, Zhengzheng Jiang, Jian Zhao",
+          "venue": "ICIC Express Letters, 2013. (<b>EI</b>)",
+          "image": "files/imgs/papers/icic2013.jpg",
+          "image_size": {
+            "height": 92
+          },
+          "links": [],
+          "bibtex": "@article{icic2013,\nauthor = {Sun, W. and Gao, Z. and Wang, J. and Wu, W. and Jiang, Z. and Zhao, J.},\nyear = {2013},\nmonth = {01},\npages = {3103-3108},\ntitle = {Model reduction and Real-time simulation of spinal soft tissues},\nvolume = {7},\njournal = {ICIC Express Letters}\n}"
+        },
+        {
+          "title": "基于模型约减的虚拟脊柱及实时仿真",
+          "authors": "高瞻, <u>孙万捷</u>, 王杰华, 蒋峥峥, 武卫翔, 陈恩高, 潘飞",
+          "venue": "系统仿真学报, 2013. (<b>CCF推荐B类中文期刊</b>)",
+          "image": "files/imgs/papers/jss2013.jpg",
+          "image_size": {
+            "height": 92
+          },
+          "links": [],
+          "bibtex": "@article{jss2013,\n  title={基于模型约减的虚拟脊柱及实时仿真},\n  author={高瞻 and 孙万捷 and 王杰华 and 蒋峥峥 and 武卫翔 and 陈恩高 and 潘飞},\n  journal={系统仿真学报},\n  volume={9},\n  year={2013}\n}"
+        }
+      ]
+    },
+    {
+      "title": "Conferences",
+      "items": [
+        {
+          "title": "RoadSceneVQA: Benchmarking Visual Question Answering in Roadside Perception Systems for Intelligent Transportation System",
+          "authors": "Runwei Guan, Rongsheng Hu, Shangshu Chen, Ningyuan Xiao, Xue Xia, Jiayang Liu, Beibei Chen, Ziren Tang, Ouyang Ningwei, Shaofeng Liang, Yuxuan Fan, <u>Wanjie Sun</u>, Yutao Yue",
+          "venue": "AAAI Conference on Artificial Intelligence, 2026. (<b>AAAI</b>), 2026. (<b>CCF A</b>)",
+          "image": "files/imgs/papers/aaai2026.jpg",
+          "image_size": {
+            "width": 145
+          },
+          "links": [
+            {
+              "label": "PDF",
+              "url": "#"
+            },
+            {
+              "label": "Code",
+              "url": "#"
+            }
+          ],
+          "bibtex": "N/A"
+        },
+        {
+          "title": "Timestep-Aware Diffusion Model for Extreme Image Rescaling",
+          "authors": "Ce Wang, Zhenyu Hu, <u>Wanjie Sun*</u>, Zhenzhong Chen",
+          "venue": "International Conference on Computer Vision, 2025. (<b>ICCV</b>), 2025. (<b>CCF A</b>)",
+          "image": "files/imgs/papers/arxiv2024_wc_1.jpg",
+          "image_size": {
+            "width": 145
+          },
+          "links": [
+            {
+              "label": "PDF",
+              "url": "https://arxiv.org/pdf/2408.09151"
+            },
+            {
+              "label": "Code",
+              "url": "https://github.com/wwangcece/TADM"
+            }
+          ],
+          "bibtex": "title={Timestep-Aware Diffusion Model for Extreme Image Rescaling},\n                    author={Ce Wang, Zhenyu Hu, Wanjie Sun, Zhenzhong Chen},\n                    booktitle={International Conference on Computer Vision},\n                    pages={0--0},\n                    year={2025}"
+        },
+        {
+          "title": "NTIRE 2024 Restore Any Image Model (RAIM) in the Wild Challenge",
+          "authors": "Liang Jie, ..., <u>Wanjie Sun</u>, Zhenzhong Chen, and et, al.",
+          "venue": "IEEE Conference on Computer Vision and Pattern Recognition Workshops (<b>CVPR Workshops</b>), 2024.",
+          "image": "files/imgs/papers/raim_2024.jpg",
+          "image_size": {
+            "width": 145
+          },
+          "links": [
+            {
+              "label": "PDF",
+              "url": "https://arxiv.org/abs/2405.09923"
+            }
+          ],
+          "bibtex": "N/A"
+        },
+        {
+          "title": "DOVE: Decomposition Oriented Video super-rEsolution",
+          "authors": "Huairui Wang, <u>Wanjie Sun</u>, Zhenzhong Chen",
+          "venue": "IEEE International Conference on Visual Communications and Image Processing (<b>VCIP</b>), 2020.",
+          "image": "files/imgs/papers/vcip2020.jpg",
+          "image_size": {
+            "width": 145
+          },
+          "links": [
+            {
+              "label": "PDF",
+              "url": "https://ieeexplore.ieee.org/document/9301825"
+            }
+          ],
+          "bibtex": "@INPROCEEDINGS{vcip2020,\n  author={Wang, Huairui and Sun, Wanjie and Chen, Zhenzhong and Yang, Daiqin},\n  booktitle={2020 IEEE International Conference on Visual Communications and Image Processing (VCIP)},\n  title={DOVE: Decomposition Oriented Video super-rEsolution},\n  year={2020},\n  volume={},\n  number={},\n  pages={375-378},\n  doi={10.1109/VCIP49819.2020.9301825}}"
+        },
+        {
+          "title": "Scanpath Prediction for Visual Attention using IOR-ROI LSTM",
+          "authors": "Zhenzhong Chen, <u>Wanjie Sun</u>",
+          "venue": "Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence (<b>IJCAI</b>), 2018.",
+          "image": "files/imgs/papers/ijcai2018.jpg",
+          "image_size": {
+            "height": 92
+          },
+          "links": [
+            {
+              "label": "PDF",
+              "url": "https://www.ijcai.org/Proceedings/2018/0089.pdf"
+            }
+          ],
+          "bibtex": "@inproceedings{ijcai2018,\n  title={Scanpath prediction for visual attention using ior-roi lstm},\n  author={Chen, Zhenzhong and Sun, Wanjie},\n  booktitle={Proceedings of the 27th International Joint Conference on Artificial Intelligence},\n  pages={642--648},\n  year={2018}\n}"
+        },
+        {
+          "title": "CNN-Optimized Image Compression with Uncertainty based Resource Allocation",
+          "authors": "Zhenzhong Chen, Yiming Li, Feiyang Liu, Zizheng Liu, Xiang Pan, <u>Wanjie Sun</u> Yingbin Wang, Yan Zhou, Han Zhu, Shan Liu",
+          "venue": "IEEE Conference on Computer Vision and Pattern Recognition Workshops (<b>CVPRW</b>), 2018.",
+          "image": "files/imgs/papers/cvpr2018.jpg",
+          "image_size": {
+            "width": 145
+          },
+          "links": [
+            {
+              "label": "PDF",
+              "url": "https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w50/Chen_CNN-Optimized_Image_Compression_CVPR_2018_paper.pdf"
+            }
+          ],
+          "bibtex": "@inproceedings{cvpr2018,\n  title={CNN-optimized image compression with uncertainty based resource allocation},\n  author={Chen, Zhenzhong and Li, Yiming and Liu, Feiyang and Liu, Zizheng and Pan, Xiang and Sun, Wanjie and Wang, Yingbin and Zhou, Yan and Zhu, Han and Liu, Shan},\n  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops},\n  pages={2559--2562},\n  year={2018}\n}"
+        }
+      ]
+    }
+  ]
+}

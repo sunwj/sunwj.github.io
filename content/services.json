@@ -1,0 +1,46 @@
+{
+  "blocks": [
+    {
+      "html": "<p><b>Editorial/Program Committee</b>: </p>"
+    },
+    {
+      "items": [
+        "📝Area Chair (IEEE ICME 2026)"
+      ]
+    },
+    {
+      "html": "<p><b>Journal Reviewer</b>: </p>"
+    },
+    {
+      "items": [
+        "📝International Journal of Computer Vision (<b>IJCV</b>)",
+        "📝IEEE Transactions on Image Processing (<b>TIP</b>)",
+        "📝IEEE Transactions on Multimedia (<b>TMM</b>)",
+        "📝IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>)",
+        "📝IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)",
+        "📝IEEE Transactions on Broadcasting (<b>TBC</b>)",
+        "📝IEEE Transactions on Emerging Topics in Computational Intelligence (<b>TETCI</b>)",
+        "📝Pattern Recognition (<b>PR</b>)",
+        "📝Knowledge-based Systems (<b>KBS</b>)",
+        "📝International Journal of Applied Earth Observation and Geoinformation (<b>JAG</b>)",
+        "📝Neurocomputing",
+        "📝Signal Processing: Image Communication (<b>SP:IC</b>)",
+        "📝Computer Vision and Image Understanding",
+        "📝The Visual Computer",
+        "📝IET Image Processing",
+        "📝Scientific Reports",
+        "📝The Photogrammetric Record"
+      ]
+    },
+    {
+      "html": "<p><b>Conference Reviewer</b>: </p>"
+    },
+    {
+      "items": [
+        "📝IEEE International Conference on Multimedia and Expo (<b>ICME</b>)",
+        "📝IEEE International Conference on Multimedia Information Processing (<b>MIPR</b>)",
+        "📝ACM Symposium On Eye Tracking Research & Applications (<b>ETRA</b>)"
+      ]
+    }
+  ]
+}

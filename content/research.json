@@ -1,0 +1,15 @@
+{
+  "blocks": [
+    {
+      "html": "My research lies at the intersection of visual perception, image processing, computer vision, and deep learning. I am particularly interested in developing advanced algorithms that bridge fundamental theory and real-world applications. Current research directions include:"
+    },
+    {
+      "items": [
+        "✨Image resampling, including image super-resolution and image downsampling",
+        "✨Generative remote sensing image enhancement",
+        "✨HDR image production",
+        "✨Lightweight models for image enhancement"
+      ]
+    }
+  ]
+}

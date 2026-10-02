@@ -1,0 +1,50 @@
+[
+  {
+    "id": "News",
+    "title": "News",
+    "file": "news.json",
+    "type": "list"
+  },
+  {
+    "id": "Interest",
+    "title": "Research Interest",
+    "file": "research.json",
+    "type": "list"
+  },
+  {
+    "id": "Publications",
+    "title": "Publications",
+    "file": "publications.json",
+    "type": "publications"
+  },
+  {
+    "id": "Fundings",
+    "title": "Fundings",
+    "file": "fundings.json",
+    "type": "list"
+  },
+  {
+    "id": "Services",
+    "title": "Services",
+    "file": "services.json",
+    "type": "list"
+  },
+  {
+    "id": "Honors",
+    "title": "Honors",
+    "file": "honors.json",
+    "type": "list"
+  },
+  {
+    "id": "Professional Experiences",
+    "title": "Professional Experiences",
+    "file": "experience.json",
+    "type": "list"
+  },
+  {
+    "id": "Education",
+    "title": "Education",
+    "file": "education.json",
+    "type": "list"
+  }
+]
