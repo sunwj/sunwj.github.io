@@ -2,11 +2,15 @@
   "groups": [
     {
       "title": "Preprints",
+      "items": []
+    },
+    {
+      "title": "Journals",
       "items": [
         {
           "title": "SlimDiffSR: Toward Lightweight and Efficient Remote Sensing Image Super-Resolution via Diffusion Model Distillation",
           "authors": "Ce Wang, Zhenyu Hu, <u>Wanjie Sun*</u>",
-          "venue": "arXiv:2605.02198, 2026.",
+          "venue": "Transactions on Geoscience & Remote Sensing <b>IEEE TGRS</b>), 2026. (<b>一区Top, IF=9.4</b>)",
           "image": "files/imgs/papers/arxiv2026_wc.jpg",
           "image_size": {
             "width": 145
@@ -21,13 +25,8 @@
               "url": "https://github.com/wwangcece/SlimDiffSR"
             }
           ],
-          "bibtex": "N/A"
-        }
-      ]
-    },
-    {
-      "title": "Journals",
-      "items": [
+          "bibtex": "@ARTICLE{11688111,\n author={Wang, Ce and Hu, Zhenyu and Sun, Wanjie},\n journal={IEEE Transactions on Geoscience and Remote Sensing},\n  title={SlimDiffSR: Toward Efficient Remote Sensing Image Super-Resolution via Diffusion Model Distillation},\n  year={2026},\n volume={64},\n pages={5640718-5640718},\n doi={10.1109/TGRS.2026.3732853}}"
+        },
         {
           "title": "Controllable Reference-Guided Diffusion with Local-Global Fusion for Real-World Remote Sensing Image Super-Resolution",
           "authors": "Ce Wang, <u>Wanjie Sun*</u>",

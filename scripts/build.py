@@ -42,7 +42,7 @@ def render_publications(data):
 <div class="paper-copy"><h4>{escape(paper['title'])}</h4>
 <p class="paper-authors">{paper['authors']}</p>
 <p class="paper-venue">{paper['venue']}</p>
-<div class="paper-actions">{links}</div>{details}</div>
+<div class="paper-actions">{links}{details}</div></div>
 </article>''')
     return '\n'.join(output)
 

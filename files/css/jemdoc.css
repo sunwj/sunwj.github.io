@@ -19,19 +19,19 @@ a:focus-visible, button:focus-visible, summary:focus-visible { outline: 3px soli
 .container { background: var(--paper); border: 1px solid var(--line); border-radius: 16px; padding: 48px 48px 30px; min-width: 0; box-shadow: 0 8px 36px #20334404; }
 p { margin: 0 0 12px; }
 .profile { display: grid; grid-template-columns: minmax(0, 1fr) 180px; gap: 32px; padding-bottom: 38px; }
-.profile .eyebrow { margin-bottom: 16px; }
+.profile .eyebrow { margin-bottom: 18px; font-size: 12px; letter-spacing: .12em; }
 h1 { font: 500 clamp(32px, 3vw, 44px)/1.18 Georgia, "Times New Roman", serif; letter-spacing: -.035em; margin: 0 0 12px; }
-h1 span { display: block; margin-top: 10px; font: 400 21px/1.4 "PingFang SC", "Microsoft YaHei", sans-serif; letter-spacing: .08em; color: var(--muted); }
-.position { font-size: 14px; font-weight: 500; }
+h1 span { display: block; margin-top: 10px; font: 400 24px/1.4 "PingFang SC", "Microsoft YaHei", sans-serif; letter-spacing: .08em; color: var(--muted); }
+.position { font-size: 18px; line-height: 1.6; font-weight: 500; }
 .position span { color: var(--muted); margin-left: 8px; }
-.affiliation { margin: 22px 0 14px; font-size: 13px; }
+.affiliation { margin: 24px 0 18px; font-size: 16px; line-height: 1.8; }
 .affiliation a { color: var(--ink); }
-.affiliation span { color: var(--muted); font-size: 12px; }
-.location { max-width: 430px; color: var(--muted); font-size: 11px; line-height: 1.7; }
-.email { display: inline-block; font-size: 13px; font-weight: 600; margin: 4px 0 16px; }
+.affiliation span { color: #53636e; font-size: 15px; }
+.location { max-width: 500px; color: #53636e; font-size: 14px; line-height: 1.8; }
+.email { display: inline-block; font-size: 16px; font-weight: 600; margin: 8px 0 20px; }
 .email span { padding-left: 10px; }
 .profile-links { display: flex; gap: 8px; flex-wrap: wrap; }
-.profile-links a { font-size: 11px; padding: 5px 10px; border: 1px solid var(--line); border-radius: 5px; }
+.profile-links a { font-size: 14px; padding: 7px 12px; border: 1px solid var(--line); border-radius: 5px; }
 .profile-links a:hover { background: #f2f7f5; text-decoration: none; }
 .profile-links span { margin-left: 4px; }
 .portrait-frame { align-self: start; margin-top: 30px; }
@@ -60,15 +60,16 @@ h4 { font-size: 15px; font-weight: 600; line-height: 1.55; margin: -3px 0 8px; }
 .paper-authors { color: var(--muted); font-size: 12px; line-height: 1.7; margin-bottom: 5px; }
 .paper-authors u { color: var(--ink); text-decoration: none; font-weight: 600; }
 .paper-venue { font-size: 12px; line-height: 1.7; margin-bottom: 10px; }
-.paper-actions { display: flex; flex-wrap: wrap; gap: 8px; }
+.paper-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
 .paper-link, .bibtex summary { display: inline-block; font-size: 10px; line-height: 1.7; font-weight: 600; color: var(--accent); background: #eef4f1; border-radius: 4px; padding: 3px 9px; }
 .paper-link:hover { background: #e1eeea; text-decoration: none; }
-.bibtex { margin-top: 8px; }
+.bibtex { display: contents; }
+.bibtex:not([open]) pre { display: none; }
 .bibtex summary { cursor: pointer; list-style: none; }
 .bibtex summary::-webkit-details-marker { display: none; }
 .bibtex summary::after { content: ' +'; }
 .bibtex[open] summary::after { content: ' −'; }
-.bibtex pre { white-space: pre-wrap; overflow-wrap: anywhere; font: 11px/1.7 ui-monospace, monospace; border: 1px solid var(--line); background: #f8faf7; padding: 14px; border-radius: 5px; margin: 10px 0 0; }
+.bibtex pre { flex-basis: 100%; min-width: 0; margin: 2px 0 0; white-space: pre-wrap; overflow-wrap: anywhere; font: 11px/1.7 ui-monospace, monospace; border: 1px solid var(--line); background: #f8faf7; padding: 14px; border-radius: 5px; }
 #Fundings, #Honors, #Services, #Education, section[id='Professional Experiences'] { font-size: 13px; }
 #Services p { margin-top: 24px; }
 #Services li { padding: 4px 0; }
@@ -97,13 +98,13 @@ h4 { font-size: 15px; font-weight: 600; line-height: 1.55; margin: -3px 0 8px; }
   .site-shell { padding: 14px 12px; }
   .container { padding: 26px 20px; border-radius: 10px; }
   .profile { grid-template-columns: minmax(0, 1fr) 88px; gap: 12px; }
-  .profile .eyebrow { font-size: 8px; letter-spacing: .08em; }
+  .profile .eyebrow { font-size: 11px; letter-spacing: .06em; }
   h1 { font-size: 30px; }
-  h1 span { font-size: 18px; }
+  h1 span { font-size: 22px; }
   .portrait-frame { margin-top: 30px; }
   .portrait-frame img { height: 110px; }
   .portrait-caption { display: none; }
-  .position { font-size: 12px; }
+  .position { font-size: 16px; }
   .position span { display: block; margin-left: 0; }
   .profile-links { gap: 6px; }
   .recruitment { padding: 16px; }
@@ -127,7 +128,8 @@ h4 { font-size: 15px; font-weight: 600; line-height: 1.55; margin: -3px 0 8px; }
 }
 @media (max-width: 560px) {
   .profile { display: block; position: relative; }
-  .profile h1, .profile .position { padding-right: 98px; }
-  .portrait-frame { position: absolute; width: 88px; right: 0; top: 28px; margin: 0; }
+  .profile h1 { padding-right: 98px; }
+  .profile .position { padding-right: 0; margin-top: 24px; }
+  .portrait-frame { position: absolute; width: 88px; right: 0; top: 44px; margin: 0; }
   .profile .affiliation { margin-top: 28px; }
 }
